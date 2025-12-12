@@ -57,7 +57,7 @@ export default function AboutPage() {
               <h1 className="text-3xl font-bold text-gray-900">
                 À propos
               </h1>
-              <p className="text-gray-600 mt-1">PneuExpress</p>
+              <p className="text-gray-600 mt-1">Hello There !</p>
             </div>
             <div className="flex gap-3">
               {user ? (
